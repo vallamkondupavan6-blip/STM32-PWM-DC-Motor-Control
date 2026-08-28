@@ -1,8 +1,8 @@
 # STM32 PWM DC Motor Control
 
-A reference/demo implementation showing PWM-based DC motor speed control using an STM32F407VG.
+A implementation showing PWM-based DC motor speed control using an STM32F407VG.
 
-> **Project Status:** Reference implementation for STM32F407VG PWM motor control. Hardware validation is pending.
+> **Project Status:**  implementation for STM32F407VG PWM motor control. Hardware validation success.
 
 ## Features
 
